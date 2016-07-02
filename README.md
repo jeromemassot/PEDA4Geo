@@ -6,4 +6,5 @@ This repository contains a course about Exploration Data Analysis in the context
 It also contains a Python library covering Exploration Data Analysis common tools and Geostatistics routines.
 
 Jerome Massot
+
 Moscow, July 2016
